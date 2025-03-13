@@ -79,3 +79,8 @@ Sample solution for the [task-tracker](https://roadmap.sh/projects/task-tracker)
   ```bash
   task-cli help
   ```
+
+## Uninstall
+```bash
+dotnet tool uninstall TaskTrackerCLI -g
+```
